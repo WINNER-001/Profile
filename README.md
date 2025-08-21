@@ -17,5 +17,5 @@
 2. [MNIST Gradio Demo](https://github.com/你的用户名/mnist-gradio-demo) - Interactive MNIST handwritten digit recognition  
 
 ## 📫 Contact Me  
-- Email: your-email@example.com  
-- GitHub: [@你的用户名](https://github.com/你的用户名)  
+- Email: 2917927422@qq.com
+- GitHub: [@WINNER-001](https://github.com/WINNER-001)  
